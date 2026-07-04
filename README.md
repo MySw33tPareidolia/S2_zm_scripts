@@ -1,4 +1,8 @@
 # Call of Duty: WWII Zombies FastFile Scripts
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
+
 
 This repo contains scripts that I've extracted from the Call of Duty: WWII Zombies
 
